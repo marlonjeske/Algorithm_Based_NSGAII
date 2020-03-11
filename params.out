@@ -1,0 +1,11 @@
+# This file contains information about inputs as read by the program
+
+ Population size = 200
+ Number of generations = 500
+ Number of objective functions = 2
+ Number of variables = 460
+ Probability of crossover of variable = 9.000000e-01
+ Probability of mutation of variable = 1.000000e-01
+ Seed for random number generator = 1.230000e-01
+ Number of crossover of variable = 44821
+ Number of mutation of variable = 229072
