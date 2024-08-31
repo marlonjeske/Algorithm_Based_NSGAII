@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/246682755.svg)](https://zenodo.org/doi/10.5281/zenodo.3706954)
+
 # About the proposed algorithm
 
 We introduce an efficient evolutionary algorithm based on the Non-dominated Sorting Genetic Algorithm II (NSGA-II) to solve a multi-objective integer problem to the routing problem in wireless sensors network to optimize both energy consumption and delivery reliability. This algorithm was developed based on source code of the Multi-objective NSGA-II code in C, revision 1.1.6 (08 July 2011), available at the following link: http://www.iitk.ac.in/kangal/codes.shtml
